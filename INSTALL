@@ -1,0 +1,9 @@
+Building Jocker
+
+See doc/readme-qt.rst for instructions on building Jocker QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Jocker.
+
+See doc/build-*.txt for instructions on building jockerd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Jocker.
